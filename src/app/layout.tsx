@@ -3,8 +3,8 @@ import "./globals.css";
 import { ThemeProvider } from "./components/ThemeContext/ThemeContext";
 
 export const metadata: Metadata = {
-  title: "Gym Tracker Dashboard",
-  description: "Dashboard para visualizar progreso de entrenamientos del gym",
+  title: "Health Dashboard",
+  description: "Dashboard para visualizar progreso de entrenamientos",
 };
 
 export default function RootLayout({

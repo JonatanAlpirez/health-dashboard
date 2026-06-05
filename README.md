@@ -1,6 +1,6 @@
-# Gym Tracker Dashboard
+# Health Dashboard
 
-Dashboard web para visualizar el progreso de entrenamientos del gym, usando datos exportados de la app **Strong** (o cualquier base de datos con estructura compatible).
+Dashboard web para visualizar el progreso de entrenamientos, usando datos exportados de la app **Strong** (o cualquier base de datos con estructura compatible).
 
 ## Stack Tecnológico
 
